@@ -1,0 +1,21 @@
+.Nom{
+    list-style-type: none;
+    color: yellowgreen;
+    font-size: 25px;
+}
+
+li{
+    list-style-type: square;
+    color: white;
+    list-style-type: disc;
+}
+
+.Titre{
+    list-style-type: upper-latin;
+}
+
+body{
+    color: white;
+    background-image: url("cinema.jpg");
+    background-size: cover;
+}
